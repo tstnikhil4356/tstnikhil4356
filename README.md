@@ -13,9 +13,7 @@
 
 - 👨‍🎓 Completed **BSc IT** from Usha Pravin Gandhi College (8.43 CGPA)  
 - 📈 Interested in **AI-powered solutions** for real-world problems  
-- 🌱 Currently working on: **Stock Price Prediction AI Project**  
 - 💡 Believer in **continuous learning, problem-solving & innovation**  
-- 🎯 Goal: Crack a top product-based company with **6–10 LPA package**  
 
 ---
 
@@ -68,7 +66,6 @@
 - 💊 **Pharmaceutical Inventory Management System** *(PHP, MySQL, HTML/CSS)*  
 - 📝 **Resume Builder** *(Java Swing)*  
 - 📱 **Smartphone Price Prediction** *(Python, scikit-learn)*  
-- 📈 **Stock Price Prediction AI Model** *(in progress 🚀)*  
 
 ---
 
