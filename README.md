@@ -13,7 +13,9 @@
 
 - 👨‍🎓 Completed **BSc IT** from Usha Pravin Gandhi College (8.43 CGPA)  
 - 📈 Interested in **AI-powered solutions** for real-world problems  
+- 🌱 Currently working on: **Stock Price Prediction AI Project**  
 - 💡 Believer in **continuous learning, problem-solving & innovation**  
+- 🎯 Goal: Crack a top product-based company with **6–10 LPA package**  
 
 ---
 
@@ -66,6 +68,7 @@
 - 💊 **Pharmaceutical Inventory Management System** *(PHP, MySQL, HTML/CSS)*  
 - 📝 **Resume Builder** *(Java Swing)*  
 - 📱 **Smartphone Price Prediction** *(Python, scikit-learn)*  
+- 📈 **Stock Price Prediction AI Model** *(in progress 🚀)*  
 
 ---
 
@@ -75,6 +78,18 @@
 - 📰 **Editor Head** – Montage Committee *(2024–2025)*  
 - 🎨 **Graphic Designer** – SOU Committee *(2023–2024)*  
 - 📜 Certifications: *Intro to ML (Kaggle)*, *Python – IIT Bombay Spoken Tutorial*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tstnikhil4356&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tstnikhil4356&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
