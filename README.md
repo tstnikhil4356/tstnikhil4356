@@ -81,18 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tstnikhil4356&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tstnikhil4356&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
