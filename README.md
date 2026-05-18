@@ -63,24 +63,6 @@
 
 ---
 
-## 📌 Projects  
-
-- 💊 **Pharmaceutical Inventory Management System** *(PHP, MySQL, HTML/CSS)*  
-- 📝 **Resume Builder** *(Java Swing)*  
-- 📱 **Smartphone Price Prediction** *(Python, scikit-learn)*  
-- 📈 **Stock Price Prediction AI Model** *(in progress 🚀)*  
-
----
-
-## 🏆 Achievements & Roles  
-
-- 🎥 **Content Video Editor Intern** – Maker Bhavan Foundation *(Feb–July 2025)*  
-- 📰 **Editor Head** – Montage Committee *(2024–2025)*  
-- 🎨 **Graphic Designer** – SOU Committee *(2023–2024)*  
-- 📜 Certifications: *Intro to ML (Kaggle)*, *Python – IIT Bombay Spoken Tutorial*  
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
