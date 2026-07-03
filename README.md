@@ -13,9 +13,8 @@
 
 - 👨‍🎓 Completed **BSc IT** from Usha Pravin Gandhi College (8.43 CGPA)  
 - 📈 Interested in **AI-powered solutions** for real-world problems  
-- 🌱 Currently working on: **Stock Price Prediction AI Project**  
-- 💡 Believer in **continuous learning, problem-solving & innovation**  
-- 🎯 Goal: Crack a top product-based company with **6–10 LPA package**  
+- 🌱 Currently working on: **GEN AI Project**  
+- 💡 Believer in **continuous learning, problem-solving & innovation**   
 
 ---
 
