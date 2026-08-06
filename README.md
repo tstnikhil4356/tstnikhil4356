@@ -11,7 +11,7 @@
 
 ## 🔹 About Me  
 
-- 👉 Pursuing **MSc Data Science** from Nilkamal School of Mathematics, Applied Statistics & Analytics (NSOMASA) at NMIMS University (8.22 CGPA)
+- 👉 Pursuing **MSc Data Science** from Nilkamal School of Mathematics, Applied Statistics & Analytics (NSOMASA) at NMIMS University (8.23 CGPA)
 - 👨‍🎓 Completed **BSc IT** from Usha Pravin Gandhi College (8.43 CGPA)  
 - 📈 Interested in **AI-powered solutions** for real-world problems  
 - 🌱 Currently working on: **GEN AI Project**  
